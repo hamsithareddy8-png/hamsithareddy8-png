@@ -1,12 +1,12 @@
 <h1 align="center">Hey, I'm Hamsitha 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=ECE+Undergrad;Embedded+Systems+Enthusiast;BCI+%26+Neurotechnology+Explorer;IoT+%26+Hardware+Developer;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=ECE+Undergrad;AI+Enthusiast;Embedded+Systems+Enthusiast;BCI+%26+Neurotechnology+Explorer;IoT+%26+Hardware+Developer;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
 ---
 
-## 👩🏻‍💻 A bit about me:
+## 👩🏻‍💻 Get to know me:
 
 ```json
 {
@@ -15,6 +15,7 @@
   "institute": "IIIT Sri City",
   "year": "2nd Year",
   "interests": [
+    "Artificial Intelligence",
     "Embedded Systems",
     "Brain-Computer Interfaces",
     "IoT",
@@ -25,7 +26,8 @@
     "Python",
     "C++",
     "APIs",
-    "Embedded Systems"
+    "Embedded Systems",
+    "Artificial Intelligence"
   ],
   "currently_working_on": [
     "EEG + VR Interface",
@@ -49,13 +51,14 @@
 
 ### 🔌 Areas I'm Exploring
 
-* Embedded Systems
-* Internet of Things (IoT)
-* Brain-Computer Interfaces (BCI)
-* EEG-based systems
-* VR / XR
-* Digital Electronics
-* Hardware–Software Integration
+* 🤖 Artificial Intelligence
+* 🔌 Embedded Systems
+* 🌐 Internet of Things (IoT)
+* 🧠 Brain-Computer Interfaces (BCI)
+* 🧠 EEG-based systems
+* 🥽 VR / XR
+* 💡 Digital Electronics
+* 💻 Hardware–Software Integration
 
 ---
 
@@ -83,6 +86,7 @@ A scalable energy-management platform for monitoring and controlling classroom e
 C++              █████████░░
 Python           ███████░░░░
 Embedded Systems ████████░░░
+Artificial Intel.██████░░░░░
 APIs             ██████░░░░░
 Git & GitHub     ███████░░░░
 ```
@@ -91,12 +95,13 @@ Git & GitHub     ███████░░░░
 
 ## 🎯 What I'm Working Towards
 
-I'm interested in building projects that combine **electronics, embedded systems and intelligent software**.
+I'm interested in building projects that combine **electronics, embedded systems, artificial intelligence and intelligent software**.
 
 Currently exploring opportunities in:
 
+* 🤖 Artificial Intelligence
 * 🔬 Research
-* 💻 Technical internships
+* 💻 Technical Internships
 * 🧠 BCI / Neurotechnology
 * 🔌 Embedded Systems
 * 🌐 IoT
@@ -108,6 +113,9 @@ Currently exploring opportunities in:
 <p align="left">
   <a href="https://github.com/hamsithareddy8-png">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/hamsitha-reddy-976a5b37b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
